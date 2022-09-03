@@ -21,7 +21,7 @@ print(type(longaniza),type(name),type(long_name_variable))
 number=42
 print(type(number))
 
-#boolean
+#bool
 is_real= True
 not_real= False
 print(type(is_real),type(not_real))

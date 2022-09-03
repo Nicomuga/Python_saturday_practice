@@ -10,6 +10,8 @@ print(str_one+str_two)
 #podemos tambien multiplicar un string con un int
 print("hello"*3)
 
+#Se puede realizar la misma multiplicacion con la variable result
+
 str_three="bye"
 
 result= str_three*5
